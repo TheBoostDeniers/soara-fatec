@@ -1,0 +1,9 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/TheBoostDeniers/soara-fatec-api.git
+[submodule "web-client"]
+	path = web-client
+	url = https://github.com/TheBoostDeniers/soara-fatec-web-client.git
+[submodule "timetabling-service"]
+	path = timetabling-service
+	url = https://github.com/TheBoostDeniers/soara-fatec-timetabling-service.git
